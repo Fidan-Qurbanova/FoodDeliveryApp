@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "357966440885",
+    "firebase_url": "https://education-e7fc1-default-rtdb.firebaseio.com",
+    "project_id": "education-e7fc1",
+    "storage_bucket": "education-e7fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357966440885:android:32722696698c26e22191fc",
+        "android_client_info": {
+          "package_name": "com.example.contactsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357966440885-e00grnenjat3r8ca8njhjkjo6atj845d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5uiQCRFu0oGT2bRIKDofSoGums7cWCRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357966440885-e00grnenjat3r8ca8njhjkjo6atj845d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357966440885:android:1918701d0ea29b882191fc",
+        "android_client_info": {
+          "package_name": "com.example.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357966440885-e00grnenjat3r8ca8njhjkjo6atj845d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5uiQCRFu0oGT2bRIKDofSoGums7cWCRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357966440885-e00grnenjat3r8ca8njhjkjo6atj845d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
